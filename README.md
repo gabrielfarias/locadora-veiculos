@@ -2,7 +2,7 @@
 php artisan db:create
 
 # Apos, crie as migretes
-php artisan
+php artisan migrate
 
 # Para criar os dados ficticios execute:
 php artisan db:seed
